@@ -1,0 +1,2 @@
+Pillow>=10.0.0  # For image handling and screenshots
+reportlab>=4.0.0  # Base requirement for PDF generation
